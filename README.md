@@ -2,6 +2,10 @@
 
 Risk-scoring advisor for the Decision OS / AuthGate stack.
 
+> Part of the Decision OS — governed by the Legitimacy ⊥ Authority pipeline
+> (FDK legitimacy → AuthGate authority). Plugins are advisory only and hold
+> **no authority**; the kernel remains the single authority.
+
 **Status: reference (real, working) — advisory only.**
 
 ## What it advises
